@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Hibernate, Spring boot**
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript,**
+- 💬 Ask me about **HTML/CSS, JavaScript, Angular, ASP.NET Core,Entity Framework,Web AP,MVC (Model-View-Controller)**
 
 - 📫 How to reach me **pankajsharma7352@gmail.com**
 
