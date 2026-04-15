@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML/CSS, JavaScript, Angular, ASP.NET Core,Entity Framework,Web AP,MVC (Model-View-Controller)**
 
-- 📫 How to reach me **pankajsharma7352@gmail.com**
+- 📫 How to reach me **pankajsharma735298@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
